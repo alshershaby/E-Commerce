@@ -1,0 +1,13 @@
+this project is for practicing 
+i'm useing js, Bootstrap5 and github
+
+this project will use JS methods for saving data on the browser's localhost
+
+adding and removing users by registering and log into the website
+the user will have his profile page with his own data
+also the user can add products to his cart and remove them
+ 
+
+
+please contact me on linkedIn if you you have any Comment 
+https://www.linkedin.com/in/muhammad-alshershaby-641423190/
